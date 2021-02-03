@@ -1,0 +1,47 @@
++++
+author = "Daniel Welsh"
+title = "Fresh Beginnings"
+date = "2021-02-04"
+description = "Blog Post"
++++
+
+# First Blog Post - What I am currently working / spending time on in Feb 2021.
+
+## Intro - 03 Feb 2021
+
+Yesterday was a pretty good day.... it was the first time that I wrote on this page, so i'm proud of that.
+
+I am needing to get a kick-on with my income strategy. I can't rely on pure crypto money... or can I???
+
+I am definitely struggling with organisation of what I need to do in the best way possible.
+
+One plan that I thought of in the shower was that I recreate the Oakleigh website with kirby and do that for a few websites so that I can add them to my portfolio. Then get on Upwork and figure out what is in demand.
+
+It would be nice to just gamble the fact that I might be able to double of triple my current crypto investment and just focus on:
+
+    - Cloud Costing Tool
+        - Need to get the credentials first
+    - Eat the Rich
+        - could be massive potential with trading strategies with smart people.
+
+#### Yesterday
+
+    5:00 - woke up, was super tired and went to the gym
+    6:15 - came home and was watching live stream til aroumnd 7 and was continously wondering why I wasn't get more gains.
+    8:00 - did a little bit of fixing up of the website.
+    9-5p - was on the computer, looking at trading, chess and some random shit.... lol what a weird day.
+    5:00 - Went for a pretty good run, felt solid. I was running down the stairs and wind was so windy that my hat flew off and I had to keep chasing my hat up the stairs.
+    5:30 - went to shops and picked up food for dinner - this was when I started getting salty at chrissy, really set the mood for the remainder of the evening.
+    8:00 - watched a movie with chrissy, was the #1 on netflix called the little things. was an action movie which was a bit of a feel good and I really enjoyed it.
+    10:00 - went to bed and read til about 11:00. Slept well.
+
+#### Wins from Yesterday
+
+    1. ) Started writing my journal
+    2. ) Went for a run in prep of the triathlon.
+
+#### Losses from Yesterday
+
+    1. ) Chrissy really annoyed me yesterday... not too sure why, I think it was because she was being rude to me, but I was also being oversensitive.  I still am very unsure on the long run of this relationship. She just doesnt excite me .. :/ But I do care for her dearly... I'm not sure that I love her, which is saying something. I really wanted to go to Bali.. :(
+
+    2. ) I didn't focus enough on building my skills. I can't say / remember that I learned anything significant.
