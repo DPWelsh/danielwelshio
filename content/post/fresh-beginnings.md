@@ -23,7 +23,7 @@ Jordan offered to lend me his DRX650, however his rego is out and I am going to 
 
 ## 8 Week Challenge - Bodyfit.
 
-Today also marks the first serious day of the 8 week challenge at bodyfit. I'm going to try hard at losing the 5kgs and get as fit as I can for the triathlon in a 4 week.s
+Today also marks the first serious day of the 8 week challenge at bodyfit. I'm going to try hard at losing the 5kgs and get as fit as I can for the triathlon in a 4 week.
 
 ## First ever Triathlon - Barwon Heads Triathlon.
 
@@ -48,11 +48,39 @@ I need to set up a target income / money stream so that I don't lose out in the 
 I have started a front-end design company. My first client was Oakleigh Foundation - Supporting Indigenous Australian Education.
 I was only able to make the website using Squarespace - I would like to redesign it using Kirby once I have the ability and time to do so.
 
-## Clouru Consulting.
+## Clouru Consulting
 
 I need to start working on the Clouru Cloud Consulting side of this. I know that this will make me money in the long run as a good source of income - this will provide me with the cashflow that I need.
 
-### Cloud costing App.
+## Cloud costing App
 
 - set up domains
 - set up front end webpage.
+
+## Meditation
+
+I am restarting my meditation practice. This will become a daily thing.
+
+## Habit tracker
+
+I have set up a habit tracker for most of my habits using google sheets. It is working really well as it keeps in the loop of what is in and out of habit.
+
+## Chess
+
+I have started to get a real love for chess even though I am very poor at it. I need to stop cheating with stockfish. It is doing nothing but be a detriment to the game. It is giving me false confidence and it means that I am not learning the fundamentals correctly. I need to learn patience as well as learn some key openings and roll with them.
+
+## Reading
+
+I am aiming to read 30 mins of a fictional type book each day. I am also aiming to read 30 min of the economist each day.
+
+## Early waking up time.
+
+5:00am wake up time has been fantastic as a daily starter. It means that I get up earlier than chrissy and don't lie in bed.
+
+## Intermittent Fasting
+
+I have been starting to get back into intermittent fasting to help with my goal of losing weight. It has worked in the past and so I will try to stick with it again.
+
+## Using devices just before bed.
+
+I have time and time again proved to myself that I will have a shit sleep if i'm on my devices within an hour of sleeping. This needs to stop. I will need to make sure that I read in bed before hand.

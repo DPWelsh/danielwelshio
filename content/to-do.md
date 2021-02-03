@@ -1,33 +1,33 @@
 +++
-title = "Goals"
+title = "To-do"
 description = "Daniel Welsh about me"
 date = "2019-02-28"
-aliases = ["about-us", "daniel Welsh"]
+aliases = ["to-do", "daniel Welsh"]
 author = "Daniel Welsh"
 +++
 
+My current to-do list:
+
 #### Motorcycle Course Completion
 
-- Get full licence before I move to Bali
+- sort a bike / book appointment for jordans bike.
 
 #### 8 Week Challenge - Bodyfit.
 
-- 70 kg
-- Have Abs
-
-- I need to lock in strength goals.
+- Meal Prep
+- Empty out fridge
 
 #### First ever Triathlon - Barwon Heads Triathlon.
 
-- Goals TBA
+- Set time goals
 
 #### Eat the rich
 
-- TBA
+- tba
 
 #### Codabunga
 
-- Finish front-end bootcamp within 6 months.
+- continue with the front-end bootcamp course
 
 #### Tom Crowns Crypto
 
@@ -41,7 +41,7 @@ author = "Daniel Welsh"
 #### Clouru Consulting.
 
 - start building out the cloud cost tool model.
-- Google Cloud Architect Certification by end of March.
+- Start studying for the Google Cloud Architect Certification
 
   #### Cloud costing App.
 

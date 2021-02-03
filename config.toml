@@ -96,7 +96,13 @@ url = "mailto:dan.welsh@live.com.au"
   url = "/about/"
  
   [[menu.main]]
-  name = "Contact"
+  name = "To-do"
   weight = 500
+  identifier = "to-do"
+  url = "/to-do/"
+
+  [[menu.main]]
+  name = "Contact"
+  weight = 600
   identifier = "contact"
   url = "/contact/"
