@@ -1,6 +1,6 @@
 +++
 author = "Daniel Welsh"
-title = "To Fresh Beginnings and Outlook"
+title = "Fresh Beginnings"
 date = "2021-02-03"
 description = "Blog Post"
 +++
